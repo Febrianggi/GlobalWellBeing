@@ -5,7 +5,7 @@ Proyek analisis multivariat dengan R untuk mengelompokkan negara berdasarkan ind
 
 ## Isi proyek
 
-Skrip `PCA&CLUSTER UHUYY.R` menjalankan seluruh alur analisis dari awal sampai profil klaster:
+Skrip `PCA & CLUSTER.R` menjalankan seluruh alur analisis dari awal sampai profil klaster:
 
 1. Pembersihan data: membuang baris dengan nilai hilang dan standardisasi z-score.
 2. Uji asumsi: KMO, Bartlett's test of sphericity, boxplot, dan jarak Mahalanobis untuk outlier.
