@@ -5,7 +5,7 @@ A multivariate analysis in R that groups countries by well-being indicators from
 
 ## What is in this project
 
-The script `PCA&CLUSTER UHUYY.R` runs the whole workflow, from data cleaning to cluster profiles:
+The script `PCA & CLUSTER.R` runs the whole workflow, from data cleaning to cluster profiles:
 
 1. Data preparation: remove rows with missing values and standardize with z-scores.
 2. Assumption checks: KMO, Bartlett's test of sphericity, boxplots, and Mahalanobis distance for outliers.
